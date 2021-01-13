@@ -1,3 +1,4 @@
+# Add our dependencies 
 import csv 
 import os 
 
@@ -8,6 +9,9 @@ import os
 file_to_load = os.path.join("Resources","election_results.csv")
 #Let's create a text file to analyze election data
 file_to_save = os.path.join("analysis", "election_analysis.txt")
+
+# 1. Initialize a total vote counter 
+total_votes = 0
 
 # Open the election results and read the file 
 #two methods 
@@ -20,14 +24,15 @@ with open(file_to_load) as election_data:
 
 # Read and print the header row 
     headers = next(file_reader)
-    print(headers)
 
-#print each row in the csv file 
+
+#Print each row in the csv file 
     for row in file_reader:
-        print(row[0])
+        # Add to toal vote count
+        total_votes +=1
 
 # To do: perform analysis. 
-    print(election_data)
+    print(total_votes)
 
 # Close the file 
 election_data.close()
