@@ -44,6 +44,7 @@ The purpose of this audit is to gather additional data regarding the election ou
 Let's address a number of important questions in this audit: 
 
 * How many votes were cast in this congressional election?
+
 The total number of votes cast in this election are 369,711. 
 
 * Provide a breakdown of the number of votes and percentage of total votes for each county in the precint. 
