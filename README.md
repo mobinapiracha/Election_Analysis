@@ -52,7 +52,9 @@ Let's address a number of important questions in this audit:
 The total number of votes and percentage of total vote by county: 
 
 i. Jefferson County received 38,855 votes, which accounts for 10.5% of the total vote 
-ii. Denver County received 306,055 votes, which accounts for 82.8% of the total vote 
+
+ii. Denver County received 306,055 votes, which accounts for 82.8% of the total vote
+
 iii. Arapahoe County received 24,801 votes, which accounts for 6.7% of the total vote 
 
 * Which county had the largest number of votes? 
