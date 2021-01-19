@@ -49,5 +49,9 @@ The total number of votes cast in this election are 369,711.
 
 * Provide a breakdown of the number of votes and percentage of total votes for each county in the precint. 
 
+The total number of votes and percentage of total vote by county: 
+
+1. Jefferson County received 38,855 votes, which account for 10.5% of the total vote 
+2. 
 
 
