@@ -83,6 +83,6 @@ iii. Raymon Anthony Doane received a total of 11,606 votes which accounts for 3.
 
 Diana DeGette overwhelmingly won this election receiving 272,892 out of the 369,711 votes, which accounts for 73.8% of the total vote, a landslide victory. 
 
-# Election-Audit Summary
+### Election-Audit Summary
 
 In this election, we've seen the power of programming, using python to analyze election data, help tabulate election results and find different election statistics such as voter turnout and county turnout. I believe that python scripts should definitely be used more frequently in calculating election results. In fact, by simply making a few modifications to this script we can create a sort of a template and tabualate results for every election. One modification we could make is simply to change the file paths on the script to the relevant file paths when conducting analysis. Another modification is that during loops, in our analysis we use indexing to extract candidate and county name for each column but when analyzing other election files the index number depends on the where the candidate names and county names are positioned in the dataset, if candidate name is on the 4th column then we have to use index number 3. Therefore, by making a few modifications we can create a template script in which we can analyze any election result. 
