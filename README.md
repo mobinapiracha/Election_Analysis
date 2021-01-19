@@ -31,3 +31,22 @@ The analysis of the election shows us that:
 
 ## Challenge Overview 
 
+In this challenge, the election commission has requested some additional data to complete the audit: 
+
+* The voter turnout for each county 
+* The percentage of votes from each county of the total count
+* The county with the highest voter turnout 
+
+### Overview of Election Audit 
+The purpose of this audit is to gather additional data regarding the election outcome to ensure greater transparency in the election. Therefore, the election commission has requested voter turnout for each county, percentage of votes from each county as a percentage of total count and the county with the highest voter turnout. This information allows us to understand this election in greater detail, looking at what county carries the most weight in the election and how results in each county affects the outcome of the election. Therefore, conducting a more detailed analysis of the election outcome can help us understand who won the election, why they won it and which county was the most important county in determining the election. 
+
+### Election-Audit Results 
+Let's address a number of important questions in this audit: 
+
+* How many votes were cast in this congressional election?
+The total number of votes cast in this election are 369,711. 
+
+* Provide a breakdown of the number of votes and percentage of total votes for each county in the precint. 
+
+
+
