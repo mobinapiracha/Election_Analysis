@@ -71,7 +71,7 @@ iii. Arapahoe County received 24,801 votes, which accounts for 6.7% of the total
 
 Denver county had the largest number of votes with 305,055 of the total 369,11 votes being cast in this county 
 
-* Provide a breakdown of the no. of vote and % of total votes each candidate received
+* Provide a breakdown of the no. of votes and % of total votes each candidate received
 
 i. Charles Casper Stockham received a total of 85,213 votes which accounts for 23.0% of the total vote
 
